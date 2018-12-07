@@ -1,0 +1,9 @@
+---
+title: "OOP Tic Tac Toe"
+type: "challenge"
+description: "Build a command-line Tic Tac Toe game using object oriented programming"
+tags: "oop"
+behaviors:
+  - ruby_and_rspec
+ignore:
+- "oop-tic-tac-toe.md"
